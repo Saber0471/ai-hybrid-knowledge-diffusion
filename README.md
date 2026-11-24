@@ -1,6 +1,6 @@
 # Knowledge Stratification in Human-AI Hybrid Networks — Replication Package
 
-Replication package for the paper *"Knowledge Stratification in Human-AI Hybrid Networks: An Evolutionary Game and Agent-Based Study of AI Access Asymmetry in Knowledge Diffusion"* (JASSS submission).
+Replication package for the paper *"Knowledge Stratification in Human-AI Hybrid Networks: An Evolutionary Game and Agent-Based Study of AI Access Asymmetry in Knowledge Diffusion"* (under review).
 
 ## Model
 
